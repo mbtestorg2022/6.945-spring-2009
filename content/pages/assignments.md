@@ -6,13 +6,192 @@ uid: 62688fea-0334-c020-39de-28f974924143
 
 Problem sets are available below both as PDF files and text files.
 
-| ASSN # | TOPICS | PROBLEM SETS | SUPPORTING FILES |
-| --- | --- | --- | --- |
-| 1 | Regular expressions |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn01)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn01.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn01)) (The ZIP file contains regexp.scm and tests.txt.) |
-| 2 | Generic operations |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn02)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn02.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn02)) (The ZIP file contains 3 .scm files.) |
-| 3 | Eval/apply interpreters |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn03)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn03.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn03)) (The ZIP file contains 10 .scm files.) |
-| 4 | Compiling to combinators and AMB |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn04)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn04.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn04)) (The ZIP file contains 11 .scm files.) |
-| 5 | Pattern matching |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn05)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn05.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn05)) (The ZIP file contains 3 .scm files.) |
-| 6 | Rule systems |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn06)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn06.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn06)) (The ZIP file contains 6 .scm files.) |
-| 7 | AMB in Scheme |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn07)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn07.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn07)) (The ZIP file contains 5 .scm files.) |
-| 8 | Scheme conspiracies |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/mit6_945s09_assn08)) {{< br >}}{{< br >}} ([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn08.txt)) {{< br >}}{{< br >}}  | ([ZIP]({{< baseurl >}}/resources/assn08)) (The ZIP file contains 4 .scm files.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSN #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+PROBLEM SETS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Regular expressions
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn01))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn01.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn01)) (The ZIP file contains regexp.scm and tests.txt.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Generic operations
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn02))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn02.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn02)) (The ZIP file contains 3 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Eval/apply interpreters
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn03))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn03.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn03)) (The ZIP file contains 10 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Compiling to combinators and AMB
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn04))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn04.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn04)) (The ZIP file contains 11 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Pattern matching
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn05))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn05.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn05)) (The ZIP file contains 3 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Rule systems
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn06))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn06.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn06)) (The ZIP file contains 6 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+AMB in Scheme
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn07))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn07.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn07)) (The ZIP file contains 5 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Scheme conspiracies
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/mit6_945s09_assn08))
+
+([TXT](/courses/electrical-engineering-and-computer-science/6-945-adventures-in-advanced-symbolic-programming-spring-2009/assignments/assn08.txt))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/assn08)) (The ZIP file contains 4 .scm files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
