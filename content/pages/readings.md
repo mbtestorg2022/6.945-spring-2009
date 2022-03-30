@@ -42,7 +42,7 @@ The full text of SICP is [available online](http://mitpress.mit.edu/sicp/full-te
 \[R5RS\]
 {{< tdclose >}}
 {{< tdopen >}}
-Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://schemers.org/Documents/Standards/R5RS/r5rs.pdf))
+Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." ([PDF](http://schemers.org/Documents/Standards/R5RS/r5rs.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -51,7 +51,7 @@ Kelsey, Richard, et al. "Revised Report on the Algorithmic Language Scheme." (![
 \[SOS\]
 {{< tdclose >}}
 {{< tdopen >}}
-Hanson, Chris. "The SOS \[Scheme Object System\] Reference Manual." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-sos.pdf))
+Hanson, Chris. "The SOS \[Scheme Object System\] Reference Manual." ([PDF](https://www.gnu.org/software/mit-scheme/documentation/stable/mit-scheme-sos.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
